@@ -1,6 +1,7 @@
 # Sruti Karumanchi's first CS193 lab
 - Class taught by CS students
 - No exams
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -21,7 +22,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Class taught by CS students
-- No exams
+- No exams for this course
 
 1. Numbered
 2. List
